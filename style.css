@@ -1,0 +1,45 @@
+body {
+    color: white;
+    font-family: sans-serif;
+    font-size: 21px;
+    text-align: justify;
+    margin: 0 auto;
+    background-color: rgb(28, 32, 41);
+    text-align: center;
+}
+
+.container {
+    color: whitesmoke;
+    padding: 10px;
+}
+
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+button {
+    padding: 12px 24px;
+    margin: 10px;
+    background-color: aqua;
+    border: 1ps solid aquamarine;
+    border-radius: 25px;
+}
+
+button:hover {
+    color: #fff;
+    background-color: #54740c;
+    border: 1px solid aqua;
+}
+
+#textBox {
+    min-width: 65%;
+    max-width: 70%;
+    min-height: 150px;
+    background-color: whitesmoke;
+    font-size: 25px;
+    border: 10px solid aquamarine;
+    border-radius: 15px;
+}
